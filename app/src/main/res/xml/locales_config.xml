@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <locale android:name="ar"/> <!-- Arabic -->
+    <locale android:name="de"/> <!-- German -->
+    <locale android:name="en"/> <!-- English (United States) -->
+    <locale android:name="es"/> <!-- Spanish (Spain) -->
+    <locale android:name="ar-rEG"/>
+</locale-config>

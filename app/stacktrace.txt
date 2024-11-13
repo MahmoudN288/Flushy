@@ -1,0 +1,88 @@
+FATAL EXCEPTION: main
+Process: com.elTohamy.flushy, PID: 5655
+java.lang.ClassCastException
+	at a.b.q(SourceFile:1)
+	at e9.b.r(SourceFile:342)
+	at n6.f.a(SourceFile:32)
+	at n6.f.k(SourceFile:28)
+	at t0.s.H(SourceFile:585)
+	at t0.s.O(SourceFile:137)
+	at t0.s.p(SourceFile:242)
+	at t0.s.F(SourceFile:30)
+	at t0.z.z(SourceFile:21)
+	at t0.h2.r(SourceFile:96)
+	at t0.f2.l(SourceFile:510)
+	at e2.l1.doFrame(SourceFile:7)
+	at e2.j1.doFrame(SourceFile:48)
+	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1158)
+	at android.view.Choreographer.doCallbacks(Choreographer.java:950)
+	at android.view.Choreographer.doFrame(Choreographer.java:874)
+	at android.view.Choreographer$FrameHandler.handleMessage(Choreographer.java:1062)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:210)
+	at android.os.Looper.loop(Looper.java:299)
+	at android.app.ActivityThread.main(ActivityThread.java:8319)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:556)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1038)
+	Suppressed: ed.f: [t0.r1@fdcffa6, e2.k2@7619de7, l1{Cancelling}@a56cd94, k1@e10d03d]
+
+
+
+
+/*drawArc(
+                    color = Color.White,
+                    startAngle = 270f,
+                    size = Size(width = size.width / 9, height = size.height / 4),
+                    sweepAngle = -180f,
+                    topLeft = Offset(x = center.x / 1.14f, y = center.y / 1.2f),
+                    useCenter = false,
+                    style = Stroke(width = 7f, cap = StrokeCap.Round)
+                )*/
+
+
+https://stackoverflow.com/questions/15433377/how-parse-2013-03-13t2059310000-date-string-to-date
+https://stackoverflow.com/questions/70426723/how-to-handle-animating-multiple-shapes-in-android-canvas
+https://stackoverflow.com/questions/73546889/how-to-draw-a-multicolored-bar-with-canvas-in-jetpack-compose
+https://stackoverflow.com/questions/67818155/how-to-change-color-image-into-black-white-in-jetpack-compose
+https://stackoverflow.com/questions/68919900/screen-width-and-height-in-jetpack-compose
+https://nascimpact.medium.com/jetpack-compose-working-with-rotation-animation-aeddc5899b28
+https://stackoverflow.com/questions/52825017/convert-date-from-gmt-timezone-to-local-time-zone-using-iso-offset-date-time
+https://www.pinterest.com/pin/916693699136559076/
+
+
+
+
+//Pitch Border Lines
+                //Top
+                /*drawLine(
+                    color = Color.White,
+                    cap = StrokeCap.Round,
+                    strokeWidth = 7f,
+                    start = Offset(x = 20.dp.toPx(), y = 12.dp.toPx()),
+                    end = Offset(x = size.width / 1.05f, y = 12.dp.toPx())
+                )*/
+                //Left
+                /*drawLine(
+                    color = Color.White,
+                    cap = StrokeCap.Round,
+                    strokeWidth = 7f,
+                    start = Offset(x = 20.dp.toPx(), y = 12.dp.toPx()),
+                    end = Offset(x = 20.dp.toPx(), y = size.height / 1.05f)
+                )*/
+                //Bottom
+                /*drawLine(
+                    color = Color.White,
+                    cap = StrokeCap.Round,
+                    strokeWidth = 7f,
+                    start = Offset(x = 20.dp.toPx(), y = size.height / 1.05f),
+                    end = Offset(x = size.width / 1.05f, y = size.height / 1.05f)
+                )*/
+                //Right
+                /*drawLine(
+                    color = Color.White,
+                    cap = StrokeCap.Round,
+                    strokeWidth = 7f,
+                    start = Offset(x = size.width / 1.05f, y = size.height / 1.05f),
+                    end = Offset(x = size.width / 1.05f, y = 12.dp.toPx())
+                )*/

@@ -1,0 +1,118 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "b45449fb6901f0d0020db412dccecdb8",
+    "entities": [
+      {
+        "tableName": "player_table",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `statistics` TEXT NOT NULL, `player_info_injured` INTEGER NOT NULL, `player_info_firstname` TEXT NOT NULL, `player_info_nationality` TEXT NOT NULL, `player_info_name` TEXT NOT NULL, `player_info_weight` TEXT NOT NULL, `player_info_photo` TEXT NOT NULL, `player_info_id` INTEGER NOT NULL, `player_info_age` INTEGER NOT NULL, `player_info_lastname` TEXT NOT NULL, `player_info_height` TEXT NOT NULL, `player_info_player_birth_date` TEXT NOT NULL, `player_info_player_birth_country` TEXT NOT NULL, `player_info_player_birth_place` TEXT NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "statistics",
+            "columnName": "statistics",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.injured",
+            "columnName": "player_info_injured",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.firstname",
+            "columnName": "player_info_firstname",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.nationality",
+            "columnName": "player_info_nationality",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.name",
+            "columnName": "player_info_name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.weight",
+            "columnName": "player_info_weight",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.photo",
+            "columnName": "player_info_photo",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.id",
+            "columnName": "player_info_id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.age",
+            "columnName": "player_info_age",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.lastname",
+            "columnName": "player_info_lastname",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.height",
+            "columnName": "player_info_height",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.birth.date",
+            "columnName": "player_info_player_birth_date",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.birth.country",
+            "columnName": "player_info_player_birth_country",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "player.birth.place",
+            "columnName": "player_info_player_birth_place",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'b45449fb6901f0d0020db412dccecdb8')"
+    ]
+  }
+}

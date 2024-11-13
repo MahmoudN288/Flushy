@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فلاشي</string>
+    <string name="signIn">تسجيل الدخول</string>
+    <string name="error">خطأ</string>
+    <string name="noMail">لا يوجد تطبيقات مراسلة</string>
+    <string name="contactMe">تواصل معي:</string>
+    <string name="mainNews">آخر الأخبار</string>
+    <string name="favChamp">البطولات المفضلة</string>
+
+
+
+    //Dark Toggle
+    <string name="light_theme">الوضع الفاتح</string>
+    <string name="dark_theme">الوضع الداكن</string>
+    <string name="auto_theme">افتراضي</string>
+    <string name="sample_button_label">ذر تجريبي</string>
+    <string name="choose_your_theme">اختر الوضع</string>
+
+
+    //Settings
+    <string name="other_settings">اعدادات أخرى</string>
+    <string name="pick_language">اختر لغتك</string>
+    <string name="notify">الإشعارات</string>
+    <string name="others">أخرى</string>
+    <string name="share">مشاركة</string>
+    <string name="rate">تقييم</string>
+    //Language
+    <string name="hello_world">مرحباً</string>
+    <string name="english">انجليزي</string>
+    <string name="arabic">عربي</string>
+    <string name="deutsch">ألماني</string>
+
+    //Main
+    <string name="football">كرة القدم</string>
+    <string name="selected_date">التاريخ المختار هو </string>
+    <string name="footBall">كرة القدم</string>
+    <string name="today">اليوم</string>
+    <string name="saturday">السبت</string>
+    <string name="sunday">الأحد</string>
+    <string name="monday">الإثنين</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="thursday">الخميس</string>
+    <string name="friday">الجمعة</string>
+
+    //Favourite Tab
+    <string name="all_l">كل الدوريات</string>
+    <string name="favourite_l">الدوريات المفضلة</string>
+
+
+    //Bottom Navigation
+    <string name="games">المباريات</string>
+    <string name="favourite">المفضلة</string>
+    <string name="news">الأخبار</string>
+    <string name="settings">الإعدادات</string>
+    <string name="allTournaments">جميع البطولات المتاحة</string>
+    <string name="swipeToDelete">إسحب للإزالة</string>
+    ////Match Stats
+    <string name="half_1">شوط أول</string>
+    <string name="half_2">شوط ثاني</string>
+    <string name="half_time">إستراحة</string>
+    <string name="tbd">لم تُحَدَّد</string>
+    <string name="et">وقت إضافي</string>
+    <string name="bt">إستراحة</string>
+    <string name="p">ركلات ترجيح</string>
+    <string name="sus">معلقة</string>
+    <string name="inter">توقفت</string>
+    <string name="ft">نهاية المباراة</string>
+    <string name="aet">بعد و.إ</string>
+    <string name="pen">بعد ر.ت</string>
+    <string name="wo">إنسحاب</string>
+    <string name="awd">خسارة فنية</string>
+    <string name="canc">أُلغيت</string>
+    <string name="abd">أُلغيت</string>
+    <string name="pst">تأجلت</string>
+    ////Match Stats
+    <string name="small_half_1">ش 1</string>
+    <string name="small_half_2">ش 2</string>
+    <string name="small_half_time">إس</string>
+    <string name="small_tbd">غ.م</string>
+    <string name="small_et">و.إ</string>
+    <string name="small_bt">إس</string>
+    <string name="small_p">ر.ت</string>
+    <string name="small_sus">معلقة</string>
+    <string name="small_inter">توقفت</string>
+    <string name="small_ft">نهاية المباراة</string>
+    <string name="small_aet">بعد و.إ</string>
+    <string name="small_pen">بعد ر.ت</string>
+    <string name="small_wo">إنسحاب</string>
+    <string name="small_awd">خ.ف</string>
+    <string name="small_canc">أُلغيت</string>
+    <string name="small_abd">أُلغيت</string>
+    <string name="small_pst">تأجلت</string>
+    //Match Lineups
+    <string name="formation">التشكيل</string>
+    <string name="bench">الدكة</string>
+    <string name="manager">المدرب</string>
+    <string name="subs">البدلاء</string>
+    //Match Details
+    <string name="matchDet">تفاصيل المباراة</string>
+    <string name="matchInfo">معلومات عن المباراة</string>
+    <string name="matchTournament">البطولة</string>
+    <string name="matchRound">الجولة</string>
+    <string name="matchVenue">الإستاد</string>
+    <string name="matchLocation">الموقع</string>
+    <string name="matchDateAndTime">التاريخ والوقت</string>
+
+
+
+    //Tournament Activity
+    <string name="tournamentFavourite">مفضلة</string>
+    <string name="tournamentRecent">آخر الأخبار</string>
+    <string name="tournamentOverview">عن البطولة</string>
+    <string name="tournamentGames">المباريات</string>
+    <string name="tournamentStand">جدول الترتيب</string>
+    <string name="tournamentNews">الأخبار</string>
+    <string name="tournamentTeams">الفرق</string>
+    <string name="tournamentPlayers">اللاعبين</string>
+    <string name="tournamentSeasons">المواسم</string>
+    <string name="tournamentNewsDetails">تفاصيل</string>
+    <string name="tournamentNewsBy">بواسطة: </string>
+    <string name="tournamentNewsAt">في يوم: </string>
+    <string name="tournamentGamesMatchFinished">المباريات المنتهية</string>
+    <string name="tournamentGamesMatchTBD">مباريات لم يتم تحديد موعدها</string>
+    <string name="tournamentGamesMatchNotStarted">المباريات القادمة</string>
+    <string name="tournamentGamesMatchLive">مباشر</string>
+    <string name="tournamentGamesMatchPostponed">المباريات المؤجلة</string>
+    <string name="tournamentGamesRound1">الجولة 1</string>
+    <string name="tournamentGamesRound2">الجولة 2</string>
+    <string name="tournamentGamesRound3">الجولة 3</string>
+    <string name="tournamentGamesRound4">الجولة 4</string>
+    <string name="tournamentGamesRound5">الجولة 5</string>
+    <string name="tournamentGamesRound6">الجولة 6</string>
+    <string name="tournamentGamesRound7">الجولة 7</string>
+    <string name="tournamentGamesRound8">الجولة 8</string>
+    <string name="tournamentGamesRound9">الجولة 9</string>
+    <string name="tournamentGamesRound10">الجولة 10</string>
+    <string name="tournamentGamesRound11">الجولة 11</string>
+    <string name="tournamentGamesRound12">الجولة 12</string>
+    <string name="tournamentGamesRound13">الجولة 13</string>
+    <string name="tournamentGamesRound14">الجولة 14</string>
+    <string name="tournamentGamesRound15">الجولة 15</string>
+    <string name="tournamentGamesRound16">الجولة 16</string>
+    <string name="tournamentGamesRound17">الجولة 17</string>
+    <string name="tournamentGamesRound18">الجولة 18</string>
+    <string name="tournamentGamesRound19">الجولة 19</string>
+    <string name="tournamentGamesRound20">الجولة 20</string>
+    <string name="tournamentGamesRound21">الجولة 21</string>
+    <string name="tournamentGamesRound22">الجولة 22</string>
+    <string name="tournamentGamesRound23">الجولة 23</string>
+    <string name="tournamentGamesRound24">الجولة 24</string>
+    <string name="tournamentGamesRound25">الجولة 25</string>
+    <string name="tournamentGamesRound26">الجولة 26</string>
+    <string name="tournamentGamesRound27">الجولة 27</string>
+    <string name="tournamentGamesRound28">الجولة 28</string>
+    <string name="tournamentGamesRound29">الجولة 29</string>
+    <string name="tournamentGamesRound30">الجولة 30</string>
+    <string name="tournamentGamesRound31">الجولة 31</string>
+    <string name="tournamentGamesRound32">الجولة 32</string>
+    <string name="tournamentGamesRound33">الجولة 33</string>
+    <string name="tournamentGamesRound34">الجولة 34</string>
+    <string name="tournamentGamesRound35">الجولة 35</string>
+    <string name="tournamentGamesRound36">الجولة 36</string>
+    <string name="tournamentGamesRound37">الجولة 37</string>
+    <string name="tournamentGamesRound38">الجولة 38</string>
+    //Tournament Players
+    <string name="tournamentsPlayersStats">إحصائيات اللاعبين</string>
+    <string name="tournamentPlayersTopScorers">أعلى الهدافين</string>
+    <string name="tournamentPlayersTopAssists">أعلى الصانعين</string>
+    <string name="tournamentPlayersTopYellow">البطاقات الصفراء</string>
+    <string name="tournamentPlayersTopRed">البطاقات الحمراء</string>
+    //Tournament Standings
+    <string name="rank">م</string>
+    <string name="team">النادي</string>
+    <string name="played">ل</string>
+    <string name="won">ف</string>
+    <string name="draw">ت</string>
+    <string name="loss">خ</string>
+    <string name="goals">الأهداف</string>
+    <string name="goalDiff">فرق</string>
+    <string name="points">النقاط</string>
+
+
+
+
+    //Match Activity
+    <string name="matchEvents">أحداث المباراة</string>
+    <string name="matchDetails">التفاصيل</string>
+    <string name="matchLineups">التشكيل</string>
+    <string name="matchStats">الإحصائيات</string>
+    <string name="matchStandings">الترتيب</string>
+    //Lineups
+    <string name="notDefined">غير مُحدد</string>
+    <string name="noName">لا يوجد اسم</string>
+    <string name="noNum">0</string>
+    //Stats
+    <string name="statistics">إحصائيات المباراة</string>
+    <string name="gStatistics">الإحصائيات الأساسية</string>
+    <string name="possession">الإستحواذ</string>
+    <string name="exG">الأهداف المتوقعة (eX-G)</string>
+    <string name="shotsOn">التسديدات على المرمى</string>
+    <string name="totalPasses">إجمالي التمريرات</string>
+    <string name="accPasses">دقة التمريرات</string>
+    <string name="foulsCom">الأخطاء المرتكبة</string>
+    <string name="offsides">التسللات</string>
+    <string name="cornerKicks">الركلات الركنية</string>
+    <string name="keeperSaves">التصديات</string>
+    <string name="shots">التسديدات</string>
+    <string name="totalShots">إجمالي التسديدات</string>
+    <string name="onTarget">على المرمى</string>
+    <string name="offTarget">خارج المرمى</string>
+    <string name="blockedShots">تسديدات معترضة</string>
+    <string name="shotsInside">تسديدات من داخل الصندوق</string>
+    <string name="shotsOutside">تسديدات من خارج الصندوق</string>
+    <string name="matchDiscipline">العقوبات</string>
+    <string name="matchDiscYellow">الإنذارات</string>
+    <string name="matchDiscRed">الطرد</string>
+
+
+
+
+    //Leagues
+    <string name="fwc">كأس العالم</string>
+    <string name="fcwc">كأس العالم للأندية</string>
+    <string name="fwc_q_af">تصفيات كأس العالم (أفريقيا)</string>
+    <string name="fwc_q_as">تصفيات كأس العالم (آسيا)</string>
+    <string name="fwc_q_eu">تصفيات كأس العالم (أوروبا)</string>
+    <string name="fwc_q_na">تصفيات كأس العالم (أمريكا الشمالية)</string>
+    <string name="fwc_q_oc">تصفيات كأس العالم (أوقيانوسية)</string>
+    <string name="fwc_q_sa">تصفيات كأس العالم (أمريكا الجنوبية)</string>
+    <string name="fwc_q_po">تصفيات كأس العالم (الملحق العالمي)</string>
+    <string name="euro">بطولة أمم أوروبا</string>
+    <string name="unl">دوري الأمم الأوروبية</string>
+    <string name="afcon">كأس أمم أفريقيا</string>
+    <string name="afn_ch">كأس أمم أفريقيا للمحليين</string>
+    <string name="afcon_u23">كأس أمم أفريقيا (تحت 23 سنة)</string>
+    <string name="asian_cup">كأس آسيا</string>
+    <string name="fwc_w">كأس العالم (سيدات)</string>
+    <string name="copa_am">كوبا أميريكا</string>
+    <string name="gold_cup">كأس الكونكاكاف الذهبية</string>
+    <string name="friend">المباريات الودية</string>
+    <string name="arab_cup">كأس العرب</string>
+    <string name="euro_q">تصفيات كأس أمم أوروبا</string>
+    <string name="asian_cup_q">تصفيات كأس أمم آسيا</string>
+    <string name="afcon_q">تصفيات كأس أمم أفريقيا</string>
+    <string name="international_ch_cup">الكأس الدولية للأبطال</string>
+    <string name="ucl">دوري أبطال أوروبا</string>
+    <string name="uel">الدوري الأوروبي</string>
+    <string name="uecl">دوري المؤتمرات الأوروبي</string>
+    <string name="uyl">دوري أبطال أوروبا للشباب</string>
+    <string name="usc">السوبر الأوروبي</string>
+    <string name="ucl_w">دوري أبطال أوروبا (سيدات)</string>
+    <string name="ccl">دوري أبطال أفريقيا</string>
+    <string name="caf_cc">الكونفدرالية الأفريقية</string>
+    <string name="caf_sc">كأس السوبر الأفريقي</string>
+    <string name="lib">كوبا ليبرتادوريس</string>
+    <string name="con_cl">كأس أبطال الكونكاكاف</string>
+    <string name="con_sud">كوبا سودأمريكانا</string>
+    <string name="afc_cl">دوري أبطال آسيا</string>
+    <string name="afc_cup">كأس الاتحاد الآسيوي</string>
+    <string name="en_pl">الدوري الإنجليزي</string>
+    <string name="champ">دوري البطولة الإنجليزية</string>
+    <string name="fa_cup">كأس الاتحاد الإنجليزي</string>
+    <string name="efl">EFL Cup</string>
+    <string name="league_cup">كأس الرابطة الإنجليزية</string>
+    <string name="com_sh">كأس الدرع الخيرية</string>
+    <string name="la_liga">الدوري الإسباني</string>
+    <string name="copa_del">كأس ملك أسبانيا</string>
+    <string name="spain_sc">كأس السوبر الإسباني</string>
+    <string name="serie_a">الدوري الإيطالي</string>
+    <string name="copa_it">كأس إيطاليا</string>
+    <string name="italy_sc">كأس السوبر الإيطالي</string>
+    <string name="bundes">الدوري الألماني</string>
+    <string name="dfb_pokal">كأس ألمانيا</string>
+    <string name="german_sc">كأس السوبر الألماني</string>
+    <string name="ligue_1">الدوري الفرنسي</string>
+    <string name="coppa_ligue">كأس الرابطة الفرنسية</string>
+    <string name="coupe_fr">كأس فرنسا</string>
+    <string name="pre_liga">الدوري البرتغالي</string>
+    <string name="toca_liga">كأس البرتغال</string>
+    <string name="por_sc">السوبر البرتغالي</string>
+    <string name="tur_super_lig">الدوري التركي</string>
+    <string name="tur_cup">كأس تركيا</string>
+    <string name="tur_sc">السوبر التركي</string>
+    <string name="eredivisie">الدوري الهولندي</string>
+    <string name="jupiler">الدوري البلجيكي</string>
+    <string name="bra_serie_a">الدوري البرازيلي</string>
+    <string name="bra_cup">كأس البرازيل</string>
+    <string name="arg_league">الدوري الأرجنتيني</string>
+    <string name="arg_cup">كأس الأرجنتين</string>
+    <string name="roshan">الدوري السعودي (روشن)</string>
+    <string name="kings_cup">كأس الملك السعودي</string>
+    <string name="sau_sc">كأس السوبر السعودي</string>
+    <string name="egy_pl">الدوري المصري</string>
+    <string name="egy_cup">كأس مصر</string>
+    <string name="egy_sc">السوبر المصري</string>
+    <string name="tun_league">الدوري التونسي</string>
+    <string name="tun_cup">كأس تونس</string>
+    <string name="botola">الدوري المغربي (بطولة)</string>
+    <string name="mor_cup">كأس العرش المغربي</string>
+
+
+
+
+
+
+    //Player Activity
+    <string name="playerInfoScreen">معلومات</string>
+    <string name="playerMainInfo">معلومات اللاعب</string>
+    <string name="playerStatsScreen">الإحصائيات</string>
+    <string name="playerTransfersScreen">الإنتقالات</string>
+    <string name="playerSidelinedScreen">الغيابات</string>
+    <string name="playerTrophiesScreen">البطولات</string>
+    <string name="playerPositionIsGK">حارس مرمى</string>
+    <string name="playerPositionIsDef">مدافع</string>
+    <string name="playerPositionIsMid">لاعب وسط</string>
+    <string name="playerPositionIsFor">مهاجم</string>
+    <string name="playerAge">العمر</string>
+    <string name="playerBirth">تاريخ الميلاد</string>
+    <string name="playerHeight">الطول</string>
+    <string name="playerWeight">الوزن</string>
+    <string name="playerStatus">مُصاب</string>
+    <string name="playerIsInjured">نعم</string>
+    <string name="playerNotInjured">لا</string>
+    <string name="playerActiveYears">سنوات النشاط</string>
+    <string name="playerSquads">الفرق</string>
+    <string name="playerStatisticsHeader">إحصائيات اللاعب مفصلة لكل بطولة</string>
+    <string name="playerGoals">الأهداف</string>
+    <string name="playerAssist">الصناعات</string>
+    <string name="playerYellowCards">البطاقات الصفراء</string>
+    <string name="playerRedCards">البطاقات الحمراء</string>
+    <string name="playerGames">المباريات</string>
+    <string name="playerStarts">أساسي</string>
+    <string name="playerNumber">رقم اللاعب</string>
+    <string name="playerMinutes">دقائق اللعب</string>
+    <string name="playerAppearances">مجموع المباريات</string>
+    <string name="playerRating">التقييم</string>
+    <string name="playerNotInvolved">لم يشارك</string>
+    <string name="playerPosition">المركز</string>
+    <string name="playerCaptain">كابتن الفريق</string>
+    <string name="playerSubOut">تم إستبداله</string>
+    <string name="playerSubIn">شارك بديلاً</string>
+    <string name="playerOnBench">على دكة الإحتياط</string>
+    <string name="playerOtherStats">إحصائيات أخرى</string>
+    <string name="playerPenalties">ركلات الجزاء</string>
+    <string name="playerPenWon">مُكتسبة</string>
+    <string name="playerPenScored">مُسجلة</string>
+    <string name="playerPenMiss">مُهدرة</string>
+    <string name="playerPenCom">مُرتكبة</string>
+    <string name="playerPenSaved">مُعترضة</string>
+    <string name="playerDuels">الثنائيات</string>
+    <string name="playerDuelsTotal">مجموع الثنائيات</string>
+    <string name="playerDuelsWon">ناجحة</string>
+    <string name="playerFouls">الأخطاء</string>
+    <string name="playerFoulsComm">مُرتكبة</string>
+    <string name="playerFoulsDrawn">مُكتسبة</string>
+    <string name="playerGoalsStats">إحصائيات التهديف</string>
+    <string name="playerGoalsScored">أهداف مُسجلة</string>
+    <string name="playerGoalsConceded">أهداف مُتلقاه</string>
+    <string name="playerGoalsSaved">تصديات</string>
+    <string name="playerDribbles">المراوغات</string>
+    <string name="playerDribblesAttempts">المحاولات</string>
+    <string name="playerDribblesSuccess">مراوغات ناجحة</string>
+    <string name="playerDribblesFailed">مراوغات فاشلة</string>
+    <string name="playerPasses">التمريرات</string>
+    <string name="playerPassesTotal">مجموع التمريرات</string>
+    <string name="playerPassesCompleted">تمريرات مُكتملة</string>
+    <string name="playerPassesMissed">تمريرات ضائعة</string>
+    <string name="playerPassesAccuracy">دقة التمريرات (%)</string>
+    <string name="playerPassesKey">التمريرات المفتاحية</string>
+    <string name="playerTackles">التدخلات</string>
+    <string name="playerTacklesTotal">مجموع التدخلات</string>
+    <string name="playerTacklesBlocks">مُحتجزة</string>
+    <string name="playerTacklesInter">مُعترضة</string>
+    <string name="playerTransfersHeader">تاريخ الإنتقالات</string>
+    <string name="playerSidelinedHeader">تاريخ الإستبعادات، الإيقافات والإصابات</string>
+    <string name="playerSidelinedNF">لم يُحدد</string>
+    <string name="playerSidelinedStart">تاريخ البداية</string>
+    <string name="playerSidelinedEnd">موعد العودة</string>
+    <string name="playerSidelinedType">السبب</string>
+    <string name="playerTrophiesHeader">إجمالي البطولات</string>
+
+
+
+    //News Activity
+    <string name="newsDetailsHeader">تفاصيل الخبر</string>
+    <string name="newsClick">تفاصيل أكثر</string>
+    <string name="newsContent">المحتوى</string>
+    <string name="newsDetails">التفاصيل</string>
+    <string name="newsMoreInfo">معلومات إضافية</string>
+    <string name="newsSource">المصدر</string>
+
+
+
+
+    //Team Activity
+    <string name="teamInfoScreen">معلومات</string>
+    <string name="teamGamesScreen">المباريات</string>
+    <string name="teamSeasonsScreen">المواسم</string>
+    <string name="teamTransfersScreen">الإنتقالات</string>
+    <string name="teamPlayersScreen">الفريق</string>
+    <string name="teamMainInfo">معلومات الفريق</string>
+    <string name="teamFounded">التأسيس</string>
+    <string name="teamClassification">التصنيف</string>
+    <string name="teamIsNational">منتخب كرة قدم</string>
+    <string name="teamIsClub">نادي كرة قدم</string>
+    <string name="teamStadium">الملعب</string>
+    <string name="teamStadiumGrass">ملعب عشبي</string>
+    <string name="teamStadiumInfo">معلومات الإستاد</string>
+    <string name="teamStadiumCapacity">السعة</string>
+    <string name="teamStadiumAddress">العنوان</string>
+    <string name="teamSeasonsHeader">المواسم المتاحة للفريق</string>
+    <string name="teamSeasonsCardHeader">المواسم</string>
+    <string name="teamTransfersScreenHeader">تاريخ الإنتقالات</string>
+
+
+    //Transfers
+    <string name="transferLoan">إعارة</string>
+    <string name="transferFree">مجاني</string>
+    <string name="transferNon">غير محدد</string>
+
+
+
+    //Search Bar
+    <string name="searchHint">إبحث بالإنجليزية</string>
+
+
+    //Availability
+    <string name="notAvailable">متاح</string>
+    <string name="noEvents">لا توجد أحداث بعد</string>
+    <string name="noLineups">لا توجد تشكيلة</string>
+    <string name="noStats">لا توجد إحصائيات</string>
+    <string name="noStandings">لا يوجد ترتيب</string>
+    <string name="noPlayers">إحصائيات اللاعبين غير متوفرة</string>
+    <string name="noTransfers">التنقلات غير متوفرة</string>
+    <string name="noSidelined">الإبتعادات غير متوفرة</string>
+    <string name="noTrophies">الجوائز غير متوفرة</string>
+</resources>

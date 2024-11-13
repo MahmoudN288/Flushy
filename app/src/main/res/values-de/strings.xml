@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flushy</string>
+    <string name="signIn">Anmelden</string>
+    <string name="error">Fehler</string>
+    <string name="noMail">Keine Mail-Apps gefunden</string>
+    <string name="contactMe">Kontaktiere mich:</string>
+    <string name="mainNews">Neueste Nachrichten</string>
+    <string name="favChamp">Lieblingsturniere</string>
+
+
+
+
+    //Dark Toggle
+    <string name="light_theme">Lichtmodus</string>
+    <string name="dark_theme">Dunkler Modus</string>
+    <string name="auto_theme">Systemmodus</string>
+    <string name="sample_button_label">Beispielschaltfläche</string>
+    <string name="choose_your_theme">UI Mode</string>
+
+
+    //Settings
+    <string name="other_settings">Andere Einstellungen</string>
+    <string name="pick_language">Sprache auswählen</string>
+    <string name="notify">Benachrichtigung</string>
+    <string name="others">Andere</string>
+    <string name="share">Aktie</string>
+    <string name="rate">Rate</string>
+    //Language
+    <string name="hello_world">Hallo Welt</string>
+    <string name="english">Englisch</string>
+    <string name="arabic">Arabisch</string>
+    <string name="deutsch">Deutsch</string>
+
+    //Main
+    <string name="football">Fußball</string>
+    <string name="selected_date">Das ausgewählte Datum ist </string>
+    <string name="footBall">European Football</string>
+    <string name="today">Heute</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+
+    //Favourite Tab
+    <string name="all_l">Alle Ligen</string>
+    <string name="favourite_l">Lieblingsligen</string>
+
+
+    //Bottom Navigation
+    <string name="games">Spiele</string>
+    <string name="favourite">Favoritin</string>
+    <string name="news">Nachricht</string>
+    <string name="settings">Einstellungen</string>
+    <string name="allTournaments">Alle Turniere</string>
+    <string name="swipeToDelete">Zum Löschen wischen</string>
+    ////Match Stats Header
+    <string name="half_1">Erste</string>
+    <string name="half_2">Zweite</string>
+    <string name="half_time">Halbzeit</string>
+    <string name="tbd">Nicht geplant</string>
+    <string name="et">e.z</string>
+    <string name="bt">Pause</string>
+    <string name="p">Strafen</string>
+    <string name="sus">Unterbrochen</string>
+    <string name="inter">Unterbrochen</string>
+    <string name="ft">Vollzeit</string>
+    <string name="aet">Nach e.z</string>
+    <string name="pen">Nach Strafen</string>
+    <string name="wo">Walkover</string>
+    <string name="awd">Technischer Verlust</string>
+    <string name="canc">Abgesagt</string>
+    <string name="abd">Verlassen</string>
+    <string name="pst">Verschoben</string>
+    ////Match Stats Small
+    <string name="small_half_1">Erste</string>
+    <string name="small_half_2">Zweite</string>
+    <string name="small_half_time">Halbzeit</string>
+    <string name="small_tbd">N.G</string>
+    <string name="small_et">e.z</string>
+    <string name="small_bt">Pause</string>
+    <string name="small_p">Strafen</string>
+    <string name="small_sus">Unt.</string>
+    <string name="small_inter">Unt.</string>
+    <string name="small_ft">V.Z</string>
+    <string name="small_aet">Nach e.z</string>
+    <string name="small_pen">Nach Strafen</string>
+    <string name="small_wo">WO</string>
+    <string name="small_awd">T.V</string>
+    <string name="small_canc">Abg.</string>
+    <string name="small_abd">Ver.</string>
+    <string name="small_pst">Ver.</string>
+    //Match Lineups
+    <string name="formation">Formation</string>
+    <string name="bench">Bank</string>
+    <string name="manager">Manager</string>
+    <string name="subs">Ersatz</string>
+    //Match Details
+    <string name="matchDet">Spieldetails</string>
+    <string name="matchInfo">Spielinformationen</string>
+    <string name="matchTournament">Turnier</string>
+    <string name="matchRound">Rounden</string>
+    <string name="matchVenue">Stadion</string>
+    <string name="matchLocation">Standort</string>
+    <string name="matchDateAndTime">Datum &amp; Zeit</string>
+
+
+
+    //Tournament Activity
+    <string name="tournamentFavourite">Favoritin</string>
+    <string name="tournamentRecent">Neueste Nachrichten</string>
+    <string name="tournamentOverview">Überblick</string>
+    <string name="tournamentGames">Spiele</string>
+    <string name="tournamentStand">Rangliste</string>
+    <string name="tournamentNews">Nachricht</string>
+    <string name="tournamentTeams">Mannschaften</string>
+    <string name="tournamentPlayers">Spielerinnen</string>
+    <string name="tournamentSeasons">Jahreszeiten</string>
+    <string name="tournamentNewsDetails">Details</string>
+    <string name="tournamentNewsBy">Von: </string>
+    <string name="tournamentNewsAt">Bei: </string>
+    <string name="tournamentGamesMatchFinished">Beendete Spiele</string>
+    <string name="tournamentGamesMatchTBD">Geplant Spiele</string>
+    <string name="tournamentGamesMatchNotStarted">Nicht angefangen Spiele</string>
+    <string name="tournamentGamesMatchLive">Livin</string>
+    <string name="tournamentGamesMatchPostponed">Verschoben Spiele</string>
+    <string name="tournamentGamesRound1">Runden 1</string>
+    <string name="tournamentGamesRound2">Runden 2</string>
+    <string name="tournamentGamesRound3">Runden 3</string>
+    <string name="tournamentGamesRound4">Runden 4</string>
+    <string name="tournamentGamesRound5">Runden 5</string>
+    <string name="tournamentGamesRound6">Runden 6</string>
+    <string name="tournamentGamesRound7">Runden 7</string>
+    <string name="tournamentGamesRound8">Runden 8</string>
+    <string name="tournamentGamesRound9">Runden 9</string>
+    <string name="tournamentGamesRound10">Runden 10</string>
+    <string name="tournamentGamesRound11">Runden 11</string>
+    <string name="tournamentGamesRound12">Runden 12</string>
+    <string name="tournamentGamesRound13">Runden 13</string>
+    <string name="tournamentGamesRound14">Runden 14</string>
+    <string name="tournamentGamesRound15">Runden 15</string>
+    <string name="tournamentGamesRound16">Runden 16</string>
+    <string name="tournamentGamesRound17">Runden 17</string>
+    <string name="tournamentGamesRound18">Runden 18</string>
+    <string name="tournamentGamesRound19">Runden 19</string>
+    <string name="tournamentGamesRound20">Runden 20</string>
+    <string name="tournamentGamesRound21">Runden 21</string>
+    <string name="tournamentGamesRound22">Runden 22</string>
+    <string name="tournamentGamesRound23">Runden 23</string>
+    <string name="tournamentGamesRound24">Runden 24</string>
+    <string name="tournamentGamesRound25">Runden 25</string>
+    <string name="tournamentGamesRound26">Runden 26</string>
+    <string name="tournamentGamesRound27">Runden 27</string>
+    <string name="tournamentGamesRound28">Runden 28</string>
+    <string name="tournamentGamesRound29">Runden 29</string>
+    <string name="tournamentGamesRound30">Runden 30</string>
+    <string name="tournamentGamesRound31">Runden 31</string>
+    <string name="tournamentGamesRound32">Runden 32</string>
+    <string name="tournamentGamesRound33">Runden 33</string>
+    <string name="tournamentGamesRound34">Runden 34</string>
+    <string name="tournamentGamesRound35">Runden 35</string>
+    <string name="tournamentGamesRound36">Runden 36</string>
+    <string name="tournamentGamesRound37">Runden 37</string>
+    <string name="tournamentGamesRound38">Runden 38</string>
+    //Tournament Players
+    <string name="tournamentsPlayersStats">Spielerstatistiken</string>
+    <string name="tournamentPlayersTopScorers">Top Scorers</string>
+    <string name="tournamentPlayersTopAssists">Top Assists</string>
+    <string name="tournamentPlayersTopYellow">Gelben Karten</string>
+    <string name="tournamentPlayersTopRed">Roten Karten</string>
+    //Tournament Standings
+    <string name="rank">R</string>
+    <string name="team">Team</string>
+    <string name="played">P</string>
+    <string name="won">W</string>
+    <string name="draw">D</string>
+    <string name="loss">L</string>
+    <string name="goals">Ziele</string>
+    <string name="goalDiff">GD</string>
+    <string name="points">Punkte</string>
+
+
+
+
+    //Match Activity
+    <string name="matchEvents">Veranstaltungen</string>
+    <string name="matchDetails">Einzelheiten</string>
+    <string name="matchLineups">Aufstellungen</string>
+    <string name="matchStats">Statistiken</string>
+    <string name="matchStandings">Rangliste</string>
+    //Lineups
+    <string name="notDefined">Nicht gefunden</string>
+    <string name="noName">Kein Name</string>
+    <string name="noNum">0</string>
+    //Stats
+    <string name="statistics">Statistiken</string>
+    <string name="gStatistics">Allgemeine Statistiken</string>
+    <string name="possession">Besitz</string>
+    <string name="exG">Erwartete Ziele (eX-G)</string>
+    <string name="shotsOn">Schüsse aufs Tor</string>
+    <string name="totalPasses">Gesamtzahl der Pässe</string>
+    <string name="accPasses">Präzise Pässe</string>
+    <string name="foulsCom">Begangene Fouls</string>
+    <string name="offsides">Abseits</string>
+    <string name="cornerKicks">Eckbälle</string>
+    <string name="keeperSaves">Torwart rettet</string>
+    <string name="shots">Schüsse</string>
+    <string name="totalShots">Gesamtzahl der Schüsse</string>
+    <string name="onTarget">Am Ziel</string>
+    <string name="offTarget">Daneben</string>
+    <string name="blockedShots">Blockierte Schüsse</string>
+    <string name="shotsInside">In der Box</string>
+    <string name="shotsOutside">Außerhalb der Box</string>
+    <string name="matchDiscipline">Disziplin</string>
+    <string name="matchDiscYellow">Gelbe Karten</string>
+    <string name="matchDiscRed">Rote Cards</string>
+
+
+
+    //Leagues
+    <string name="fwc">FIFA World Cup</string>
+    <string name="fcwc">FIFA Club World Cup</string>
+    <string name="fwc_q_af">FIFA World Cup Q. (Africa)</string>
+    <string name="fwc_q_as">FIFA World Cup Q. (Asia)</string>
+    <string name="fwc_q_eu">FIFA World Cup Q. (Europe)</string>
+    <string name="fwc_q_na">FIFA World Cup Q. (North America)</string>
+    <string name="fwc_q_oc">FIFA World Cup Q. (Oceania)</string>
+    <string name="fwc_q_sa">FIFA World Cup Q. (South America)</string>
+    <string name="fwc_q_po">FIFA World Cup Q. Play-Offs</string>
+    <string name="euro">UEFA European Championship</string>
+    <string name="unl">UEFA Nations League</string>
+    <string name="afcon">African Cup of Nations</string>
+    <string name="afn_ch">African Nations Championship</string>
+    <string name="afcon_u23">African Cup of Nations U-23</string>
+    <string name="asian_cup">Asian Cup</string>
+    <string name="fwc_w">FIFA World Cup (Women)</string>
+    <string name="copa_am">Copa America</string>
+    <string name="gold_cup">Concacaf Gold Cup</string>
+    <string name="friend">Football Friendlies</string>
+    <string name="arab_cup">FIFA Arab Cup</string>
+    <string name="euro_q">UEFA Euro Qualifiers</string>
+    <string name="asian_cup_q">Asian Cup Qualifiers</string>
+    <string name="afcon_q">African Cup of Nations Q.</string>
+    <string name="international_ch_cup">International Champions Cup</string>
+    <string name="ucl">UEFA Champions League</string>
+    <string name="uel">UEFA Europa League</string>
+    <string name="uecl">UEFA Europa Conference League</string>
+    <string name="uyl">UEFA Youth League</string>
+    <string name="usc">UEFA Super Cup</string>
+    <string name="ucl_w">UEFA Champions League (Women)</string>
+    <string name="ccl">CAF Champions League</string>
+    <string name="caf_cc">CAF Confederation Cup</string>
+    <string name="caf_sc">CAF Super Cup</string>
+    <string name="lib">Copa Libertadores</string>
+    <string name="con_cl">CONCACAF Champions League</string>
+    <string name="con_sud">Copa Sudamericana</string>
+    <string name="afc_cl">AFC Champions League</string>
+    <string name="afc_cup">AFC Cup</string>
+    <string name="en_pl">Premier League</string>
+    <string name="champ">Championship</string>
+    <string name="fa_cup">FA Cup</string>
+    <string name="efl">EFL Cup</string>
+    <string name="league_cup">League Cup</string>
+    <string name="com_sh">Community Shield</string>
+    <string name="la_liga">La Liga</string>
+    <string name="copa_del">Copa del Rey</string>
+    <string name="spain_sc">Spanish Super Cup</string>
+    <string name="serie_a">Serie A</string>
+    <string name="copa_it">Coppa Italia</string>
+    <string name="italy_sc">Italian Super Cup</string>
+    <string name="bundes">Bundesliga</string>
+    <string name="dfb_pokal">DFB Pokal</string>
+    <string name="german_sc">German Super Cup</string>
+    <string name="ligue_1">Ligue 1</string>
+    <string name="coppa_ligue">France League Cup</string>
+    <string name="coupe_fr">France Cup</string>
+    <string name="pre_liga">Primeira Liga Portugal</string>
+    <string name="toca_liga">Portugal Cup</string>
+    <string name="por_sc">Portugal Super Cup</string>
+    <string name="tur_super_lig">Turkish Super League</string>
+    <string name="tur_cup">Turkish Cup</string>
+    <string name="tur_sc">Turkish Super Cup</string>
+    <string name="eredivisie">Dutch League</string>
+    <string name="jupiler">Belgian League</string>
+    <string name="bra_serie_a">Brazilian League</string>
+    <string name="bra_cup">Brazil Cup</string>
+    <string name="arg_league">Argentina League</string>
+    <string name="arg_cup">Argentina Cup</string>
+    <string name="roshan">Roshan League (Saudi Arabia)</string>
+    <string name="kings_cup">King\'s Cup Saudi Arabia</string>
+    <string name="sau_sc">Saudi Super Cup</string>
+    <string name="egy_pl">Egyptian Premier League</string>
+    <string name="egy_cup">Egypt Cup</string>
+    <string name="egy_sc">Egypt Super Cup</string>
+    <string name="tun_league">Ligue 1 (Tunisia)</string>
+    <string name="tun_cup">Tunisia Cup</string>
+    <string name="botola">Botola (Morocco)</string>
+    <string name="mor_cup">Morocco Cup</string>
+
+
+
+
+
+    //Player Activity
+    <string name="playerInfoScreen">Die Info</string>
+    <string name="playerMainInfo">Spielerinformationen</string>
+    <string name="playerStatsScreen">Statistiken</string>
+    <string name="playerTransfersScreen">Überweisungen</string>
+    <string name="playerSidelinedScreen">Abseits</string>
+    <string name="playerTrophiesScreen">Trophäen</string>
+    <string name="playerPositionIsGK">Torwart</string>
+    <string name="playerPositionIsDef">Verteidiger</string>
+    <string name="playerPositionIsMid">Mittelfeldspieler</string>
+    <string name="playerPositionIsFor">Angreifer</string>
+    <string name="playerAge">Alter</string>
+    <string name="playerBirth">Geburtsdatum</string>
+    <string name="playerHeight">Höhe</string>
+    <string name="playerWeight">Gewicht</string>
+    <string name="playerStatus">Verletzt</string>
+    <string name="playerIsInjured">Ja</string>
+    <string name="playerNotInjured">NEIN</string>
+    <string name="playerActiveYears">Aktive Jahre</string>
+    <string name="playerSquads">Mannschaften</string>
+    <string name="playerStatisticsHeader">Statistiken pro Turnier</string>
+    <string name="playerGoals">Ziele</string>
+    <string name="playerAssist">Unterstützt</string>
+    <string name="playerYellowCards">Gelbe Karten</string>
+    <string name="playerRedCards">Rote Karten</string>
+    <string name="playerGames">Spiele</string>
+    <string name="playerStarts">Start</string>
+    <string name="playerNumber">Nummer</string>
+    <string name="playerMinutes">Protokoll</string>
+    <string name="playerAppearances">Gesamt</string>
+    <string name="playerRating">Bewertung</string>
+    <string name="playerNotInvolved">Nicht involviert</string>
+    <string name="playerPosition">Position</string>
+    <string name="playerCaptain">Kapitän</string>
+    <string name="playerSubOut">Subbed-Out</string>
+    <string name="playerSubIn">Eingebettet</string>
+    <string name="playerOnBench">Auf einer Bank</string>
+    <string name="playerOtherStats">Andere Statistiken</string>
+    <string name="playerPenalties">Strafen</string>
+    <string name="playerPenWon">Gewonnen</string>
+    <string name="playerPenScored">Gepunktet</string>
+    <string name="playerPenMiss">Verpasst</string>
+    <string name="playerPenCom">Engagiert</string>
+    <string name="playerPenSaved">Gerettet</string>
+    <string name="playerDuels">Duelle</string>
+    <string name="playerDuelsTotal">Gesamt</string>
+    <string name="playerDuelsWon">Gewonnen</string>
+    <string name="playerFouls">Fouls</string>
+    <string name="playerFoulsComm">Engagiert</string>
+    <string name="playerFoulsDrawn">Gezeichnet</string>
+    <string name="playerGoalsStats">Punktestatistiken</string>
+    <string name="playerGoalsScored">Gepunktet</string>
+    <string name="playerGoalsConceded">Gegentore</string>
+    <string name="playerGoalsSaved">Spart</string>
+    <string name="playerDribbles">Dribbelt</string>
+    <string name="playerDribblesAttempts">Versuche</string>
+    <string name="playerDribblesSuccess">Erfolg</string>
+    <string name="playerDribblesFailed">Fehlgeschlagen</string>
+    <string name="playerPasses">Geht vorbei</string>
+    <string name="playerPassesTotal">Gesamt</string>
+    <string name="playerPassesCompleted">Vollendet</string>
+    <string name="playerPassesMissed">Verpasst</string>
+    <string name="playerPassesAccuracy">Genauigkeit (%)</string>
+    <string name="playerPassesKey">Schlüsselpässe</string>
+    <string name="playerTackles">Tackles</string>
+    <string name="playerTacklesTotal">Gesmat</string>
+    <string name="playerTacklesBlocks">Blöcke</string>
+    <string name="playerTacklesInter">Abfangen</string>
+    <string name="playerTransfersHeader">Geschichte der Transfers</string>
+    <string name="playerSidelinedHeader">Geschichte der Sperren, Sperren und Verletzungen von Spielern</string>
+    <string name="playerSidelinedNF">Unentschlossen</string>
+    <string name="playerSidelinedStart">Startdatum</string>
+    <string name="playerSidelinedEnd">Endtermin</string>
+    <string name="playerSidelinedType">Grund</string>
+    <string name="playerTrophiesHeader">Geschichte der Trophäen</string>
+
+
+
+
+    //News Activity
+    <string name="newsDetailsHeader">News im Detail</string>
+    <string name="newsClick">Mehr Details</string>
+    <string name="newsContent">Inhalt</string>
+    <string name="newsDetails">Einzelheiten</string>
+    <string name="newsMoreInfo">Mehr Informationen</string>
+    <string name="newsSource">Quelle</string>
+
+
+
+
+    //Team Activity
+    <string name="teamInfoScreen">Die Info</string>
+    <string name="teamGamesScreen">Spiele</string>
+    <string name="teamSeasonsScreen">Jahreszeiten</string>
+    <string name="teamTransfersScreen">Überweisungen</string>
+    <string name="teamPlayersScreen">Kader</string>
+    <string name="teamMainInfo">Teaminformationen</string>
+    <string name="teamFounded">Gegründet</string>
+    <string name="teamClassification">Klasse</string>
+    <string name="teamIsNational">Nationale Fußballmannschaft</string>
+    <string name="teamIsClub">Fußballverein</string>
+    <string name="teamStadium">Veranstaltungsort</string>
+    <string name="teamStadiumGrass">Rasenplatz</string>
+    <string name="teamStadiumInfo">Stadioninformationen</string>
+    <string name="teamStadiumCapacity">Kapazität</string>
+    <string name="teamStadiumAddress">Adresse</string>
+    <string name="teamSeasonsHeader">Liste der verfügbaren Jahreszeiten</string>
+    <string name="teamSeasonsCardHeader">Jahreszeiten</string>
+    <string name="teamTransfersScreenHeader">Übertragungsverlauf</string>
+
+
+    //Transfers
+    <string name="transferLoan">Darlehen</string>
+    <string name="transferFree">Frei</string>
+    <string name="transferNon">Unentschlossen</string>
+
+
+
+    //Search Bar
+    <string name="searchHint">Suche auf Englisch</string>
+
+
+    //Availability
+    <string name="notAvailable">Nicht verfügbar</string>
+    <string name="noEvents">Ereignisse nicht gefunden</string>
+    <string name="noLineups">Aufstellungen nicht gefunden</string>
+    <string name="noStats">Statistiken nicht gefunden</string>
+    <string name="noStandings">Rangliste nicht gefunden</string>
+    <string name="noPlayers">Spieler nicht gefunden</string>
+    <string name="noTransfers">Überweisungen nicht gefunden</string>
+    <string name="noSidelined">Ausgegrenzt, nicht gefunden</string>
+    <string name="noTrophies">Trophäen nicht gefunden</string>
+</resources>

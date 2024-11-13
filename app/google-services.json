@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385288067021",
+    "project_id": "flushy-6693c",
+    "storage_bucket": "flushy-6693c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385288067021:android:99a1392434df0057f65684",
+        "android_client_info": {
+          "package_name": "com.elTohamy.flushy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385288067021-asaj46vbkr84bmqeupv1ta09jcutl18m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elTohamy.flushy",
+            "certificate_hash": "4cf39daa2b05786433873bd26fd69c0549558428"
+          }
+        },
+        {
+          "client_id": "385288067021-l9l0l70t55rufec8ggahid62aq5lb021.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3GEwY2W8LtZEJCqdMmk_-1q0fsiFQtr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385288067021-l9l0l70t55rufec8ggahid62aq5lb021.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
