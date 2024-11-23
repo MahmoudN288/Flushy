@@ -14,3 +14,7 @@ Technologies:
 •	Libraries/Frameworks: Jetpack Compose, Retrofit, Room Database, Firebase
 •	Tools: Git, Gradle, ProGuard
 
+
+![Flushy G1](https://github.com/user-attachments/assets/ae8fed68-b680-40d7-b761-ff60b9bf9ce8)
+![Flushy](https://github.com/user-attachments/assets/0b4615c5-9a6f-4a1f-b978-616738bc6a88)
+
